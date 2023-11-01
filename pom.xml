@@ -8,6 +8,7 @@
     <artifactId>eladmin</artifactId>
     <packaging>pom</packaging>
     <version>2.5</version>
+    //不是很懂你们
 
     <modules>
         <module>eladmin-common</module>
